@@ -1,0 +1,11 @@
+Model: mlp
+Dataset: superconductivity
+Test RMSE: 12.2068
+Test R²:   0.8711
+Best CV score: 12.5852
+Best params:
+  hidden_dim: 116
+  num_layers: 4
+  dropout: 0.36599697090570255
+  lr: 0.0015751320499779737
+  activation: relu
