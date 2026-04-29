@@ -115,6 +115,7 @@ Most scripts also print final metrics to the terminal.
 
 ## Notes
 
+- The bonus part of the project is in bonus.py.
 - These experiments are computationally expensive because each model is tuned with multiple Optuna trials and cross-validation folds.
 - The scripts create their output folders automatically with `os.makedirs(..., exist_ok=True)`.
 - The datasets needed by the current scripts are already included in this repository.
